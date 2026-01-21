@@ -1,2 +1,25 @@
 "# dhruvit_portfolio"
 this is my portfolio website using html css js
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <a href="css/cake.jpg" download="mycake.jpg">
+        download
+    </a>
+    <br>
+    <a href="mailto:dhruvit715@gmail.com">send mail</a>
+    <br>
+    <a href="tel:1234567890">call</a>
+
+</body>
+
+</html>
