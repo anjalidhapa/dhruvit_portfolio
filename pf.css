@@ -12,6 +12,10 @@ body {
   font-family: Arial, sans-serif;
   background: #ffffff;
 }
+.no-link {
+  text-decoration: none;
+  color: inherit;
+}
 
 a {
   color: inherit;
